@@ -1,5 +1,5 @@
 # NSE_Index_Optionchain
-It prints the total and changes the open interest of the option 
+It prints the total and changes in the open interest of the option 
 
 
 
